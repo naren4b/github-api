@@ -1,6 +1,3 @@
-# ENTERPRISE_NAME=<Enterprise Name>
-# GHC_TOKEN=<GHC Access TOKEN >
-
 import requests
 import argparse
 import json
