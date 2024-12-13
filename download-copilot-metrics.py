@@ -1,5 +1,5 @@
 # ENTERPRISE_NAME=<Enterprise Name>
-# CNS_ECE_GHC_TOKEN=<GHC Access TOKEN >
+# GHC_TOKEN=<GHC Access TOKEN >
 
 import requests
 import argparse
